@@ -47,7 +47,7 @@ namespace DashboardJsonExample
         public static DashboardJsonDataSource CreateJsonDataSourceFromWeb()
         {
             var jsonDataSource = new DashboardJsonDataSource();
-            jsonDataSource.JsonSource = new UriJsonSource(new Uri("http://northwind.servicestack.net/customers.json"));
+            jsonDataSource.JsonSource = new UriJsonSource(new Uri("https://raw.githubusercontent.com/DevExpress-Examples/DataSources/master/JSON/customers.json"));
             jsonDataSource.RootElement = "Customers";
             jsonDataSource.Fill();
             return jsonDataSource;

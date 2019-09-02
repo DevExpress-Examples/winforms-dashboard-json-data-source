@@ -44,8 +44,8 @@ Namespace DashboardJsonExample
 
 		Public Shared Function CreateJsonDataSourceFromWeb() As DashboardJsonDataSource
 			Dim jsonDataSource = New DashboardJsonDataSource()
-			jsonDataSource.JsonSource = New UriJsonSource(New Uri("http://northwind.servicestack.net/customers.json"))
-			jsonDataSource.RootElement = "Customers"
+            jsonDataSource.JsonSource = New UriJsonSource(New Uri("https://raw.githubusercontent.com/DevExpress-Examples/DataSources/master/JSON/customers.json"))
+            jsonDataSource.RootElement = "Customers"
 			jsonDataSource.Fill()
 			Return jsonDataSource
 		End Function
