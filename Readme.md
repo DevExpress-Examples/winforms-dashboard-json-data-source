@@ -17,3 +17,13 @@ This example creates a dashboard at runtime, binds it to the [DashboardJsonDataS
 The code includes three methods that create data sources to retrieve data from a web JSON endpoint, from a file and from a string. Initially the data is obtained from web, but you can modify the code to comment out the method call and uncomment the call to another method.
 
 ![](/images/screenshot.png)
+
+## Documentation
+
+* [JSON Data Source](https://docs.devexpress.com/Dashboard/401312/winforms-dashboard/winforms-designer/create-dashboards-in-the-winforms-designer/providing-data/json-data-source?p=netframework)
+* [DashboardJsonDataSource](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardJsonDataSource?p=netframework)
+
+## More Examples
+
+* [Dashboard for ASP.NET Core - How to create new JSON data sources at runtime](https://github.com/DevExpress-Examples/asp-net-core-dashboard-create-json-connections)
+* [Dashboard for Web Forms - How to store JSON connections in a database](https://github.com/DevExpress-Examples/web-dashboard-how-to-store-json-connections-in-database)
