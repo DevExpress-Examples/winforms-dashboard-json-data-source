@@ -28,7 +28,7 @@ The code includes three methods that create data sources to retrieve data from a
 * [Dashboard for ASP.NET Core - How to create new JSON data sources at runtime](https://github.com/DevExpress-Examples/asp-net-core-dashboard-create-json-connections)
 * [Dashboard for Web Forms - How to store JSON connections in a database](https://github.com/DevExpress-Examples/web-dashboard-how-to-store-json-connections-in-database)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-json-data-source&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-json-data-source&~~~was_helpful=no)
 
